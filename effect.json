@@ -1,0 +1,9 @@
+{
+  "att_s": -102.93,
+  "ci95": [
+    -113.693,
+    -92.509
+  ],
+  "naive_s": 1.519,
+  "method": "2-fold cross-fitted AIPW ATT; propensity clipped [0.05,0.95]; day-cluster bootstrap CI (fixed nuisance)"
+}

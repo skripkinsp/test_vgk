@@ -1,0 +1,21 @@
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# IDE
+.vscode/
+.idea/
+
+# Temporary experiments
+build/
+eval/
+.catboost_info/
+catboost_info/
+
+# OS
+.DS_Store
+Thumbs.db

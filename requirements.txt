@@ -1,0 +1,6 @@
+# External runtime and training dependencies (Python 3.11 recommended).
+numpy>=1.26,<3
+pandas>=2.2,<3
+catboost>=1.2.8,<2
+# IANA time-zone database for zoneinfo on Windows.
+tzdata>=2024.1
